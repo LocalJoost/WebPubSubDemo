@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: WebPubSubClientServiceProfile
   m_EditorClassIdentifier: 
   configurations: []
-  connectionLoadString: https://your_url_here.azurewebsites.net/api/WebPubSubConnector?code=xyz
+  connectionLoadString: https://wpsdemo.azurewebsites.net/api/WebPubSubConnector?code=wD2KOdcEnIz4xxUR_UmXXt8XiuxG5SLvWO-E8qvzbrlAAzFuu0pYrg%3D%3D

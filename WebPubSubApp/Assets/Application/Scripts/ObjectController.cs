@@ -1,4 +1,4 @@
-using Microsoft.MixedReality.Toolkit;
+using MixedReality.Toolkit;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.XR.Interaction.Toolkit;
